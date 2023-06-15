@@ -1,0 +1,31 @@
+import {v4 as uuidv4} from "uuid"
+export const data=[
+    {
+        id:uuidv4(),
+        Name:"test1",
+        image:"./Images/vet1.png",
+        prix:3500,
+        Date:"09/10/2023"
+    },
+    {
+        id:uuidv4(),
+        Name:"test1",
+        image:"./Images/vet2.png",
+        prix:3500,
+        Date:"09/10/2023"
+    },
+    {
+        id:uuidv4(),
+        Name:"test1",
+        image:"./Images/vet1.png",
+        prix:3500,
+        Date:"09/10/2023"
+    },
+    {
+        id:uuidv4(),
+        Name:"test1",
+        image:"./Images/vet2.png",
+        prix:3500,
+        Date:"09/10/2023"
+    }
+]
